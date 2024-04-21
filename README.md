@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Vaishnavi Edulapuram <br/><a href="https://github.com/VaishnaviEdulapuram">CyberSecurity Ethical Hacker 
+<h1>Hi, I'm Vaishnavi Edulapuram <br/><a href="https://github.com/VaishnaviEdulapuram">Ethical Hacker 
  </a>, <a href="https://www.linkedin.com/in/edulapuram-vaishnavi-69a859269/"></h1>
 
 <h1>I am Certified Google Cybersecurity Professional Certificate by Coursera</h1>
